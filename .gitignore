@@ -1,0 +1,14 @@
+# Data files (Usually too large for Git)
+*.csv
+
+# Python Virtual Environments
+venv/
+env/
+ml_lab/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
